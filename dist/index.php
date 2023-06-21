@@ -13,7 +13,7 @@
       <div class="d-flex justify-content-center">
           <img src="../assets/Logo-Vetorian-Simbolo-Color.png" width="125px" height="125px" alt="">
       </div>
-      <form action="usuario/logar.php" method="POST">
+      <form action="login.php" method="POST">
           <div class="form-group">
               <label>Login</label>
               <input class="form-control" type="text" name="usuario" placeholder="Digite o e-mail ou login do usuário"
