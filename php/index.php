@@ -3,15 +3,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="bootstrap.css">
+  <link rel="stylesheet" href="../css/bootstrap.css">
   <title> particles.js</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
 <div id="particles-js">
   <div class="container tamanho-largura">
       <div class="d-flex justify-content-center">
-          <img src="../assets/Logo-Vetorian-Simbolo-Color.png" width="125px" height="125px" alt="">
+          <img src="../assets/logo.png" width="125px" height="125px" alt="">
       </div>
       <form action="login.php" method="POST">
           <div class="form-group">
@@ -53,6 +53,6 @@
 </div> 
 <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> 
 <script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
-<script  src="./script.js"></script>
+<script  src="../js/particles.min.js"></script>
 </body>
 </html>
